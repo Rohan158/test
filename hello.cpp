@@ -7,5 +7,6 @@ int main()
     {
         cout<<endl;
         cout<<"this is feature"<<endl;
+        cout<<"Nice one"<<endl;
     }
 }
